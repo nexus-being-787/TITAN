@@ -14,14 +14,6 @@ Research-Oriented • CPU-First • Open Source • From Scratch
 
 <br><br>
 
-# TITAN 🧠
-
-> **Building a modern, research-oriented 100M parameter language model from scratch.**
-
-TITAN is an open-source project focused on understanding every layer of a language model—from tokenization and data pipelines to attention mechanisms, training infrastructure, and efficient CPU inference.
-
-The goal is **not just to train a model**, but to document, experiment, and learn every engineering decision behind modern LLMs.
-
 ---
 
 ## 🚧 Project Status
