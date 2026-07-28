@@ -12,6 +12,24 @@ Research-Oriented • CPU-First • Open Source • From Scratch
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+a+100M+Parameter+Language+Model;Every+Layer+Designed+from+First+Principles;Research.+Benchmark.+Improve.+Repeat.;Modern+Transformer+Architecture;CPU-Optimized+Training+Pipeline;Open+Source+AI+Research+Project" />
 
+
+
+src="https://img.shields.io/badge/Architecture-Transformer-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RMSNorm-Enabled-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RoPE-Embeddings-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SwiGLU-Activation-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Attention-Multi--Head-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tokenizer-BPE-0891B2?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CPU%20Only-No%20CUDA-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Intel-Optimized-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Experimental-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+
+
+
 <br><br>
 
 ---
@@ -185,19 +203,7 @@ If you're interested in efficient AI systems, language model architecture, or op
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Architecture-Transformer-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RMSNorm-Enabled-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RoPE-Embeddings-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SwiGLU-Activation-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Attention-Multi--Head-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tokenizer-BPE-0891B2?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CPU%20Only-No%20CUDA-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Intel-Optimized-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/Research-Experimental-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+<img 
 
 <br><br>
 
